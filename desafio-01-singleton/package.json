@@ -1,6 +1,15 @@
 {
-  "name": "desafio-manu-01-singleton",
+  "name": "desafio-01-singleton",
   "version": "1.0.0",
-  "main": "index.js",
-  "type": "commonjs"
+  "description": "testing singleton",
+  "license": "ISC",
+  "author": "Antonio Oliveira",
+  "type": "commonjs",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0"
+  }
 }
