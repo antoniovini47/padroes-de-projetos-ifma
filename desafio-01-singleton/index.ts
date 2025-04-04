@@ -1,4 +1,4 @@
-import { ConfigurationsSingleton } from "./index";
+import { ConfigurationsSingleton } from "./ConfigurationsSingleton";
 
 // Testing the Singleton
 
